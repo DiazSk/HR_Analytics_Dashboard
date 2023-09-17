@@ -59,4 +59,4 @@ We would like to thank the Power BI community and the open-source software commu
 Enjoy exploring and analyzing your company's HR data with the HR Analytics Dashboard! If you have any questions, feedback, or encounter any issues, please don't hesitate to reach out.
 
 **Project Maintainer:** [Zaid Shaikh](https://github.com/DiazSk)
-**Contact:** [Mail](mailto:zaid07sk@gmail.com)
+**Contact:** [zaid07sk@gmail.com](mailto:zaid07sk@gmail.com)
