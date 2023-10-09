@@ -1,6 +1,6 @@
 # HR Analytics Dashboard
 
-![image](https://github.com/DiazSk/HR_Analytics_Dashboard/assets/92885761/e3a95518-8f8d-4201-b86e-af0af7f22690)
+![image](https://github.com/DiazSk/HR_Analytics_Dashboard/assets/92885761/b7326c37-62aa-440b-adaa-2ecc4c60ae55)
 
 ## Overview
 
